@@ -1,3 +1,6 @@
 Flask
 Flask-SQLAlchemy
 gunicorn
+PyJWT
+flask-bcrypt
+flask-cors
