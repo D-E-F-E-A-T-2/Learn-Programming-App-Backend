@@ -4,3 +4,4 @@ gunicorn
 PyJWT
 flask-bcrypt
 flask-cors
+postgres
